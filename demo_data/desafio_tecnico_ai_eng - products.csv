@@ -1,0 +1,5 @@
+﻿product_id,price_brl,name,category_id,description,stock_quantity,status,specs,created_at
+1001,599.90,Demo Classic Guitar,5,Beginner nylon-string guitar.,10,active,{},2026-01-10
+1002,899.00,Demo Acoustic Guitar,5,Steel-string acoustic guitar.,5,active,{},2026-01-10
+1003,1200.00,Demo Electric Guitar,1,Electric guitar for practice.,3,active,{},2026-01-10
+1004,350.00,Demo Concert Ukulele,6,Concert-size ukulele.,4,active,{},2026-01-10

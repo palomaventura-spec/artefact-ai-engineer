@@ -1,0 +1,18 @@
+DEMO STORE POLICIES
+
+This is a fictional demonstration policy document,
+not the original Artefact challenge manual.
+
+Payment: PIX and credit cards are accepted.
+
+Returns: Demo online purchases may be returned
+within 7 calendar days after delivery.
+
+Shipping: Delivery estimates are illustrative.
+Shipping status is not updated in real time.
+
+Promotions: Promotional discounts cannot be
+combined with other discounts.
+
+Customer support: Unresolved requests should
+be referred to a human representative.
